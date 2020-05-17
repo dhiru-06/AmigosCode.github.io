@@ -1,0 +1,83 @@
+#navbar {
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    padding: 5px;
+}
+
+.first ul{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.logo {
+    text-align: center;
+    align-items: center;
+}
+
+.showcase-content h1{
+    font-size: 45px ;
+}
+.showcase-content h2 {
+    font-size: 40px;
+    
+}
+.what .items {
+    flex-direction: column;
+}
+
+.flex-columns .column {
+    flex: 100%;
+    max-width: 100%;
+}
+.flex-columns .column .btn-outline {
+    margin: 1rem 10rem;
+}
+
+.columnn h2 {
+    font-size: medium;
+    padding: 0 0;
+}
+
+.container-info {
+    margin: auto;
+    padding: 4rem 3rem;
+    height: auto;
+}
+.techinfo h1 {
+    font-weight: 600;
+    font-size: 60px;
+}
+#showcase-info {
+    height: 40vh;
+}
+
+.container-info .info-img {
+    height: 100px;
+    width: 100px;
+    padding: 0 8rem;
+}
+.container-info .info-img .size {
+    max-height: 100%;
+    max-height: 100%;
+}
+
+.container-info .info-content p{
+    font-weight: 450;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    letter-spacing: 1px;
+}
+.headingg {
+    font-size: low;
+}
+
+
+
+
+
+
+
+
